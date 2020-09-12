@@ -7,7 +7,7 @@ I'm a **Data Science Enthusiast** and like **Machine Learning and Computer Visio
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter and Dart
-- ⚡ Fun fact: According to me, ML is like one-sided love where u suffer but still choose to continue ;)
+
 
 - 📫 How to reach me: ...
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/vibhuti-bansal-14414a197/)
