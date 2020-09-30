@@ -1,12 +1,12 @@
 ### Hello <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm Vibhuti Bansal ! 
-I'm a **Data Science Enthusiast** and like **Machine Learning and Computer Vision**. I am also learning **App Development** and I like community management and events...
+I'm a **Data Science Enthusiast** and like **Machine Learning and Computer Vision**. I use Flutter and Dart for **App Development** and I like community management and events...
 #### Following are links to some of my recent work:
 - **[Canny Edge Detection](https://github.com/VibhutiBansal-11/CannyEdge)**. This is implementation of Canny Edge Detection Algo from scratch.
 - I also created the project to classify different types of **[Indian Classical Dance forms](https://github.com/VibhutiBansal-11/Indian-Dance-Classification-)**, using ResNet.
 - **[Covid-19](https://github.com/VibhutiBansal-11/COVID19)** prioritizes people on the basis of their symptoms and locality. 
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning Flutter and Dart
+
+
 
 
 - 📫 How to reach me: ...
