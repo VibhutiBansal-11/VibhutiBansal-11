@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **bansal.vibhuti25@gmail.com**
 
+- Find my resume [here](https://github.com/VibhutiBansal-11/Resume)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vibhuti-bansal-14414a197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhuti-bansal-14414a197/" height="30" width="40" /></a>
