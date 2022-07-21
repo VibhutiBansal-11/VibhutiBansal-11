@@ -1,4 +1,4 @@
-### Hello <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm Vibhuti Bansal ! 
+### Hello, I'm Vibhuti Bansal ! 
 I'm a **Data Science Enthusiast** and always love to learn more about **Machine Learning and Computer Vision**.
  #### Following are links to some of my recent work:
 - **[Canny Edge Detection](https://github.com/VibhutiBansal-11/CannyEdge)** : Implementation of Canny Edge Detection Algorithm from scratch.
