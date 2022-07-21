@@ -1,8 +1,8 @@
 ### Hello <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm Vibhuti Bansal ! 
 I'm a **Data Science Enthusiast** and always love to learn more about **Machine Learning and Computer Vision**.
  #### Following are links to some of my recent work:
-- **[Canny Edge Detection](https://github.com/VibhutiBansal-11/CannyEdge)**. This is implementation of Canny Edge Detection Algo from scratch.
-- I also created the project to classify different types of **[Indian Classical Dance forms](https://github.com/VibhutiBansal-11/Indian-Dance-Classification-)**, using ResNet.
+- **[Canny Edge Detection](https://github.com/VibhutiBansal-11/CannyEdge)** : Implementation of Canny Edge Detection Algorithm from scratch.
+- **[Indian Classical Dance forms](https://github.com/VibhutiBansal-11/Indian-Dance-Classification-)**, Paper DOI : https://www.mdpi.com/2076-3417/11/14/6253
 - **[Covid-19](https://github.com/VibhutiBansal-11/COVID19)** prioritizes people on the basis of their symptoms and locality. 
 
 
