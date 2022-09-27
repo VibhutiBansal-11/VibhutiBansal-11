@@ -33,7 +33,7 @@ for 20 years).Geographic Visual analysis
 dashboard was implemented to observe
 the NDVI change & climate change over
 years
-- **[Indian Classical Dance forms](https://github.com/VibhutiBansal-11/Indian-Dance-Classification-)**, Paper DOI : https://www.mdpi.com/2076-3417/11/14/6253. Indian classical dance (ICD) classification is an interesting subject because of its complex body posture. It provides a stage to experiment with various computer vision and deep learning concepts. The input to the proposed network is initially pre-processed using image thresholding and sampling. Next, a truncated DCNN based on ResNet50 is applied to the pre-processed samples. The proposed model gives an accuracy score of 0.911
+- **[Indian Classical Dance forms](https://github.com/VibhutiBansal-11/Indian-Dance-Classification-)**,  Indian classical dance (ICD) classification is an interesting subject because of its complex body posture. It provides a stage to experiment with various computer vision and deep learning concepts. The input to the proposed network is initially pre-processed using image thresholding and sampling. Next, a truncated DCNN based on ResNet50 is applied to the pre-processed samples. The proposed model gives an accuracy score of 0.911
 - **[Covid-19](https://github.com/VibhutiBansal-11/EY-Hackathon)** prioritizes people on the basis of their symptoms and locality.  This tool helps us to identify priorities of need of vaccine in a city compared to others. Data Preprocessing, Feature selection, and unsupervised learning(KMeans) were used in a pipeline as
 the model design.
 
