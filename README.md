@@ -22,8 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhutibansal-11&show_icons=true&locale=en" alt="vibhutibansal-11" /></p>
 
 #### Following are links to some of my recent work:
- 
-- **[4-class lung disease detection including COVID](https://github.com/VibhutiBansal-11/CWBCCE-COVID19)** : Accepted for 26th International Conference of Pattern Recognition . This paper includes preprocessing technique for contrast enhancement along with correlation based metric undersampling for CXR images.The neural network takes into account a new custom loss function to reduce class imbalance.
+
+- **[NILM Uncertainty](https://github.com/VibhutiBansal-11/NILM_Uncertainty)** : Accepted for BuildSys2022.
 
 - **[Canny Edge Detection](https://github.com/VibhutiBansal-11/CannyEdge)** : Implementation of Canny Edge Detection Algorithm from scratch.
 - **[Geosis](https://www.youtube.com/watch?v=XMfWI3SlXTo)** Conceptualised the website which makes
