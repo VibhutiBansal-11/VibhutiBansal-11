@@ -23,8 +23,8 @@
 
 #### Following are links to some of my recent work:
 
-- **[NILM Uncertainty](https://github.com/VibhutiBansal-11/NILM_Uncertainty)** : Accepted for BuildSys2022.
-- **[Custom Weighted Balanced Loss Function](https://github.com/VibhutiBansal-11/CWBCCE-COVID19)** : Accepted for ICPR 2022.
+- **[NILM Uncertainty](https://github.com/VibhutiBansal-11/NILM_Uncertainty)** : Accepted for BuildSys2022 (Core A)
+- **[Custom Weighted Balanced Loss Function](https://github.com/VibhutiBansal-11/CWBCCE-COVID19)** : Accepted for ICPR 2022 (Core B)
 - **[SVD‑CLAHE Boosting & Balanced Loss Function](https://github.com/VibhutiBansal-11/SVD-CLAHE-and-BWCCE)** : Accepted for CIBM Journal - Q1
 - **[Canny Edge Detection](https://github.com/VibhutiBansal-11/CannyEdge)** : Implementation of Canny Edge Detection Algorithm from scratch.
 - **[Geosis](https://www.youtube.com/watch?v=XMfWI3SlXTo)** Conceptualised the website which makes
